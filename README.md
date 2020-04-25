@@ -5,10 +5,12 @@
 Screenshots
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/15949588/71541078-a970fc80-2953-11ea-9f1e-675422505e93.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/15949588/71541077-a8d86600-2953-11ea-801c-b78679134b1a.png" width="200" /> 
-  <img src="https://user-images.githubusercontent.com/15949588/71541079-a970fc80-2953-11ea-853d-4c0989d8075e.png" width="200" /> 
-  <img src="https://user-images.githubusercontent.com/15949588/71541080-aa099300-2953-11ea-807b-ef9e4e624b04.png" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/15949588/80279598-b7af0980-86f6-11ea-84c6-be37e8ad5b5e.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/15949588/80279599-baa9fa00-86f6-11ea-838f-1b57d16d7583.png" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/15949588/80279601-bd0c5400-86f6-11ea-9512-4d7f8a3dd7dd.png" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/15949588/80279603-bed61780-86f6-11ea-9c38-8a700c5259b3.png" width="200" /> 
 </p>
 
 Get in on google play store https://play.google.com/store/apps/details?id=com.inihood.photoly.android
+
+
